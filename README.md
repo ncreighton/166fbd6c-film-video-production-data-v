@@ -1,2 +1,41 @@
-# 166fbd6c-film-video-production-data-v
-Stop wasting hours manually validating and enriching production metadata — let our API automate the grunt work, flag errors instantly, and pull authoritative data from IMDb.  Film &amp; Video Production Data Validation and Enrichment API eliminates costly data inconsistencies and manual rekeying by automatically checking your metadata against industry
+# Film & Video Production Data Validation and Enrichment API
+
+> Api Product for Film Production
+
+Stop wasting hours manually validating and enriching production metadata — let our API automate the grunt work, flag errors instantly, and pull authoritative data from IMDb.
+
+Film & Video Production Data Validation and Enrichment API eliminates costly data inconsistencies and manual rekeying by automatically checking your metadata against...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| 100 requests/day | ✅ | ✅ |
+| Standard endpoints | ✅ | ✅ |
+| JSON responses | ✅ | ✅ |
+| Unlimited requests | ❌ | ✅ |
+| Premium endpoints | ❌ | ✅ |
+| Batch processing | ❌ | ✅ |
+| Webhook notifications | ❌ | ✅ |
+| SLA guarantee | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/8x2fZhaDd2k44pq33mcZv3a)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
